@@ -24,19 +24,19 @@ to the browser and navigate to localhost8080.
 
 This app is designed to be a note taking app that can save and delete entries. Anyone may use this app for any reason or purpose.
 
-## LIcense
+## License
 
 This application uses the MIT license.
 
-## Contributions
+## Contributing
 
 none
 
-## Testing
+## Tests
 
 There currently is no testing
 
-## Questions/Concerns
+## Questions
 
 - [GitHub](https://github.com/bcrisp084)
 - Email me at crispb73001@gamil.com
