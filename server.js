@@ -8,7 +8,7 @@ const app = express();
 
 // The port we are listening on
 
-const Port = process.env.Port || 3001;
+const Port = process.env.PORT || 3001;
 
 // Sets up the express app to handle the data parsing
 
