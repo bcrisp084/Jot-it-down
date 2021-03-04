@@ -41,7 +41,7 @@ There currently is no testing
 - [GitHub](https://github.com/bcrisp084)
 - Email me at crispb73001@gamil.com
 
-## Snipet
+## Snippet
 
 ![image](https://user-images.githubusercontent.com/73912705/109895747-be36d780-7c5d-11eb-8b49-de950687bee2.png)
 
