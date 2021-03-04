@@ -12,6 +12,7 @@ A note taking app
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Snippet](#snippet)
 
 ## Installation
 
