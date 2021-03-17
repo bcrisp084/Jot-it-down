@@ -40,8 +40,9 @@ There currently is no testing
 
 ## Questions
 
+For any questions you can reach me thru my Github link or email
 - [GitHub](https://github.com/bcrisp084)
-- Email me at crispb73001@gamil.com
+- [Email](crispb73001@gamil.com)
 
 ##Link
 
